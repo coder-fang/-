@@ -1,4 +1,7 @@
 .gitignore
 *.iml
 .idea
-out/
+out
+workspace.xml
+target
+
