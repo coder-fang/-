@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="755e00e1-879a-4a42-90a0-2f9f6cb9e8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,8 @@
       <option name="presentableId" value="Default" />
       <updated>1639554091427</updated>
       <workItem from="1639554092865" duration="4437000" />
-      <workItem from="1639641242168" duration="5586000" />
+      <workItem from="1639641242168" duration="5950000" />
+      <workItem from="1639725785855" duration="68000" />
     </task>
     <servers />
   </component>
@@ -114,26 +114,26 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2607" y="199" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639554231869" />
-    <state width="1865" height="451" key="GridCell.Tab.0.bottom" timestamp="1639646567335">
+    <state width="1865" height="451" key="GridCell.Tab.0.bottom" timestamp="1639647220071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
-    <state width="1865" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639646567335" />
-    <state width="1865" height="451" key="GridCell.Tab.0.center" timestamp="1639646567335">
+    <state width="1865" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
+    <state width="1865" height="451" key="GridCell.Tab.0.center" timestamp="1639647220071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
-    <state width="1865" height="451" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639646567335" />
-    <state width="1865" height="451" key="GridCell.Tab.0.left" timestamp="1639646567335">
+    <state width="1865" height="451" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
+    <state width="1865" height="451" key="GridCell.Tab.0.left" timestamp="1639647220071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
-    <state width="1865" height="451" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639646567335" />
-    <state width="1865" height="451" key="GridCell.Tab.0.right" timestamp="1639646567335">
+    <state width="1865" height="451" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
+    <state width="1865" height="451" key="GridCell.Tab.0.right" timestamp="1639647220071">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
-    <state width="1865" height="451" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639646567335" />
+    <state width="1865" height="451" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
     <state width="1865" height="182" key="GridCell.Tab.1.bottom" timestamp="1639562098937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
