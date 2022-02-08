@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="755e00e1-879a-4a42-90a0-2f9f6cb9e8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/力扣刷题/src/Main11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,28 +62,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Application.Main07">
-    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main02" />
-      <module name="力扣刷题01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main04" />
-      <module name="力扣刷题01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main05" />
-      <module name="力扣刷题01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main11">
     <configuration name="Main06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main06" />
       <module name="力扣刷题01" />
@@ -96,13 +77,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main08" />
+      <module name="力扣刷题01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main10" />
+      <module name="力扣刷题01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main11" />
+      <module name="力扣刷题01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main11" />
+        <item itemvalue="Application.Main10" />
+        <item itemvalue="Application.Main08" />
         <item itemvalue="Application.Main07" />
         <item itemvalue="Application.Main06" />
-        <item itemvalue="Application.Main05" />
-        <item itemvalue="Application.Main04" />
-        <item itemvalue="Application.Main02" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +124,11 @@
       <workItem from="1640254365777" duration="2644000" />
       <workItem from="1642432660399" duration="794000" />
       <workItem from="1642470628105" duration="16152000" />
-      <workItem from="1642560619960" duration="5504000" />
+      <workItem from="1642560619960" duration="5539000" />
+      <workItem from="1643003756382" duration="924000" />
+      <workItem from="1643183430834" duration="1060000" />
+      <workItem from="1644119102405" duration="766000" />
+      <workItem from="1644306102443" duration="1376000" />
     </task>
     <servers />
   </component>
@@ -134,61 +140,116 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="817" y="354" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1642433134193" />
+    <state x="655" y="153" key="#xdebugger.evaluate" timestamp="1644307449480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="153" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1644307449480" />
     <state x="2607" y="199" key="FileChooserDialogImpl" timestamp="1639554231869">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2607" y="199" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639554231869" />
-    <state width="1865" height="137" key="GridCell.Tab.0.bottom" timestamp="1642597054491">
+    <state width="1865" height="204" key="GridCell.Tab.0.bottom" timestamp="1644307428215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
-    <state width="1865" height="137" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054491" />
-    <state width="1865" height="137" key="GridCell.Tab.0.center" timestamp="1642597054491">
+    <state width="1865" height="204" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428215" />
+    <state width="1865" height="204" key="GridCell.Tab.0.center" timestamp="1644307428215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="451" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
-    <state width="1865" height="137" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054491" />
-    <state width="1865" height="137" key="GridCell.Tab.0.left" timestamp="1642597054490">
+    <state width="1865" height="204" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428215" />
+    <state width="1865" height="204" key="GridCell.Tab.0.left" timestamp="1644307428215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="451" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
-    <state width="1865" height="137" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054490" />
-    <state width="1865" height="137" key="GridCell.Tab.0.right" timestamp="1642597054491">
+    <state width="1865" height="204" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428215" />
+    <state width="1865" height="204" key="GridCell.Tab.0.right" timestamp="1644307428215">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="451" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639647220071" />
-    <state width="1865" height="137" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054491" />
-    <state width="1865" height="137" key="GridCell.Tab.1.bottom" timestamp="1642597054492">
+    <state width="1865" height="204" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428215" />
+    <state width="1865" height="204" key="GridCell.Tab.1.bottom" timestamp="1644307428355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="182" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639556854526" />
-    <state width="1865" height="137" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054492" />
-    <state width="1865" height="137" key="GridCell.Tab.1.center" timestamp="1642597054492">
+    <state width="1865" height="204" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428355" />
+    <state width="1865" height="204" key="GridCell.Tab.1.center" timestamp="1644307428355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="182" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639556854526" />
-    <state width="1865" height="137" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054492" />
-    <state width="1865" height="137" key="GridCell.Tab.1.left" timestamp="1642597054492">
+    <state width="1865" height="204" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428355" />
+    <state width="1865" height="204" key="GridCell.Tab.1.left" timestamp="1644307428355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="182" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639556854526" />
-    <state width="1865" height="137" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054492" />
-    <state width="1865" height="137" key="GridCell.Tab.1.right" timestamp="1642597054492">
+    <state width="1865" height="204" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428355" />
+    <state width="1865" height="204" key="GridCell.Tab.1.right" timestamp="1644307428355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="182" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1639562098937" />
     <state width="1865" height="182" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639556854526" />
-    <state width="1865" height="137" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642597054492" />
+    <state width="1865" height="204" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1644307428355" />
     <state x="2078" y="13" key="new project wizard" timestamp="1639554241821">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2078" y="13" key="new project wizard/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1639554241821" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main08.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main10.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main10.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main10.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main11.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main11.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main11.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main11.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/力扣刷题/src/Main11.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
