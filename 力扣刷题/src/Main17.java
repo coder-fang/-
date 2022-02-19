@@ -14,7 +14,7 @@ public class Main17 {
              r = app(s, i, len % 2 == 0 ? i + 1 : i);
         }
         System.out.println(str);
-        return ;
+        return "";
     }
 
     private int[] app(String s, int start, int end) {
